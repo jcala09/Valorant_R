@@ -1,0 +1,9 @@
+Functionalities:
+Home Page (With Taskbar)
+Calendar/ Reminders
+Vod Review Holder (Post it on Youtube, with a modal of important points)
+Map Strats (Lineups and stuff) 
+Player Improvement Profiles
+
+Python Packages:
+Django (Python)
